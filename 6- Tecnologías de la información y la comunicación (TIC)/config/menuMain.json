@@ -1,0 +1,128 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },  
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "software",
+    "title": "1. Software",
+    "breadcrumb": ["Inicio","Tema 1"],
+    "path": "pages/1-tema.html",  
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "software",
+        "title": "1.1 Definición",
+        "anchor": "tema1_1"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "software",
+        "title": "1.2 Clasificación",
+        "anchor": "tema1_2"
+      }
+    ]  
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "internet",
+    "title": "2. Internet",
+    "breadcrumb": ["Inicio","tema 2"],
+    "path": "pages/2-tema.html"
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "ofimatica",
+    "title": "3. Ofimática",
+    "breadcrumb": ["Inicio","tema 3"],
+    "path": "pages/3-tema.html",  
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "ofimatica",
+        "title": "3.1 Introducción a la ofimática",
+        "anchor": "tema3_1"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "ofimatica",
+        "title": "3.2 Funcionalidad de los sistemas operativos",
+        "anchor": "tema3_2"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "ofimatica",
+        "title": "3.3 Herramientas ofimáticas: procesador de texto, hoja de cálculo, presentación de diapositivas, gestores de bases de datos",
+        "anchor": "tema3_3"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "ofimatica",
+        "title": "3.4 Motores de búsqueda, páginas sociales",
+        "anchor": "tema3_4"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "ofimatica",
+        "title": "3.5 Herramientas de trabajo colaborativo",
+        "anchor": "tema3_5"
+      }
+     
+    ]  
+    
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "evaluacion",
+    "title": "4. Evaluación",
+    "breadcrumb": ["Inicio","tema 3"],
+    "path": "pages/4-tema.html",  
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "evaluacion",
+        "title": "4.1 Reportes",
+        "anchor": "tema4_1"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "evaluacion",
+        "title": "4.2 Análisis informático",
+        "anchor": "tema4_2"
+      }
+     
+    ]
+
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "mejora",
+    "title": "5. Mejora continua",
+    "breadcrumb": ["Inicio","tema 3"],
+    "path": "pages/5-tema.html",  
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "mejora",
+        "title": "5.1 Optimización",
+        "anchor": "tema5_1"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "mejora",
+        "title": "5.2 Mejora del producto",
+        "anchor": "tema5_2"
+      }
+     
+    ]
+
+  }
+]

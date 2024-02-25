@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="222" height="222" viewBox="0 0 222 222">
+  <defs>
+    <filter id="Elipse_4849" x="0" y="0" width="222" height="222" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_141688" data-name="Grupo 141688" transform="translate(-480 -2056)">
+    <g transform="matrix(1, 0, 0, 1, 480, 2056)" filter="url(#Elipse_4849)">
+      <circle id="Elipse_4849-2" data-name="Elipse 4849" cx="102" cy="102" r="102" transform="translate(9 6)" fill="#fff"/>
+    </g>
+    <circle id="Elipse_514" data-name="Elipse 514" cx="95" cy="95" r="95" transform="translate(495 2069)" fill="#4dd0e1"/>
+    <path id="Trazado_183813" data-name="Trazado 183813" d="M9.15,16.344h-4.7L3.633,19H-.029L5.186,4.781H8.408L13.662,19H9.98ZM5.273,13.7H8.33L6.8,8.766Zm13.74,2.959a1.464,1.464,0,0,0,1.074-.376,1.379,1.379,0,0,0,.371-1.05h3.086A3.653,3.653,0,0,1,22.3,18.082,4.631,4.631,0,0,1,19.092,19.2a4.689,4.689,0,0,1-3.633-1.445,5.7,5.7,0,0,1-1.328-4v-.137a6.436,6.436,0,0,1,.591-2.827,4.3,4.3,0,0,1,1.7-1.885,5.081,5.081,0,0,1,2.637-.659,4.573,4.573,0,0,1,3.271,1.143,4.053,4.053,0,0,1,1.211,3.1H20.459a1.807,1.807,0,0,0-.4-1.26,1.382,1.382,0,0,0-1.074-.439q-1.279,0-1.494,1.631a11.508,11.508,0,0,0-.068,1.426,4.52,4.52,0,0,0,.381,2.207A1.319,1.319,0,0,0,19.014,16.656ZM28.77,5.807V8.434h1.738v2.285H28.77v4.834a1.234,1.234,0,0,0,.215.83,1.152,1.152,0,0,0,.85.234,4.828,4.828,0,0,0,.82-.059v2.354A6.074,6.074,0,0,1,28.8,19.2a3.448,3.448,0,0,1-2.51-.8,3.282,3.282,0,0,1-.811-2.432V10.719H24.131V8.434h1.348V5.807Zm2.324,7.813a6.236,6.236,0,0,1,.615-2.817,4.4,4.4,0,0,1,1.768-1.9,5.323,5.323,0,0,1,2.705-.664,4.858,4.858,0,0,1,3.74,1.47,5.64,5.64,0,0,1,1.367,4v.117a5.472,5.472,0,0,1-1.372,3.921A4.871,4.871,0,0,1,36.2,19.2a4.927,4.927,0,0,1-3.623-1.353A5.29,5.29,0,0,1,31.1,14.176Zm3.291.205a3.932,3.932,0,0,0,.459,2.148,1.529,1.529,0,0,0,1.357.684q1.758,0,1.8-2.705v-.332q0-2.842-1.816-2.842-1.65,0-1.787,2.451Zm14.746-2.412-1.084-.078a1.947,1.947,0,0,0-1.992.977V19H42.764V8.434H45.85l.107,1.357a2.548,2.548,0,0,1,2.314-1.553,3.209,3.209,0,0,1,.918.117Z" transform="translate(566.029 2205)" fill="#fff"/>
+    <g id="Grupo_141589" data-name="Grupo 141589" transform="translate(-472 -1262)">
+      <g id="Elipse_4826" data-name="Elipse 4826" transform="translate(1044 3356)" fill="none" stroke="#fff" stroke-width="3">
+        <ellipse cx="18.5" cy="18" rx="18.5" ry="18" stroke="none"/>
+        <ellipse cx="18.5" cy="18" rx="17" ry="16.5" fill="none"/>
+      </g>
+      <line id="Línea_235" data-name="Línea 235" y1="42" transform="translate(1063 3392)" fill="none" stroke="#fff" stroke-width="3"/>
+      <line id="Línea_236" data-name="Línea 236" y1="22" x2="20" transform="translate(1043 3434)" fill="none" stroke="#fff" stroke-width="3"/>
+      <line id="Línea_237" data-name="Línea 237" x1="19" y1="22" transform="translate(1063 3434)" fill="none" stroke="#fff" stroke-width="3"/>
+      <line id="Línea_238" data-name="Línea 238" x2="36.434" transform="translate(1044.518 3410.146)" fill="none" stroke="#fff" stroke-width="3"/>
+    </g>
+  </g>
+</svg>
